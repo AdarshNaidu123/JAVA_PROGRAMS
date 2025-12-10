@@ -1,0 +1,4 @@
+first created a file
+second wrote content in that
+thrid it will read text in file
+ then it will delete

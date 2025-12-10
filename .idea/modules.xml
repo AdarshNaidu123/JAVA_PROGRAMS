@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction1/Abstraction1.iml" filepath="$PROJECT_DIR$/Abstraction1/Abstraction1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction2/Abstraction2.iml" filepath="$PROJECT_DIR$/Abstraction2/Abstraction2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break_Continue/Break_Continue.iml" filepath="$PROJECT_DIR$/Break_Continue/Break_Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_frameworks/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collections_frameworks/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_frameworks/Collections_frameworks.iml" filepath="$PROJECT_DIR$/Collections_frameworks/Collections_frameworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_handling/Create/Create.iml" filepath="$PROJECT_DIR$/file_handling/Create/Create.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_handling/Exception_handling.iml" filepath="$PROJECT_DIR$/Exception_handling/Exception_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/Hierarichal_Inheritence/Hierarichal_Inheritence.iml" filepath="$PROJECT_DIR$/inheritance/Hierarichal_Inheritence/Hierarichal_Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INHERITENCE/INHERITENCE.iml" filepath="$PROJECT_DIR$/INHERITENCE/INHERITENCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_frameworks/Collection/List/List.iml" filepath="$PROJECT_DIR$/Collections_frameworks/Collection/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Method_Overloading/Method_Overloading.iml" filepath="$PROJECT_DIR$/Polymorphism/Method_Overloading/Method_Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Method_Overriding/Method_Overriding.iml" filepath="$PROJECT_DIR$/Polymorphism/Method_Overriding/Method_Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INHERITENCE/MULTIPLE/MultiLevel_inheritence.iml" filepath="$PROJECT_DIR$/INHERITENCE/MULTIPLE/MultiLevel_inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading_using_Interface/MultiThreading_using_Interface.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading_using_Interface/MultiThreading_using_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Multidimentinal_Array/Multidimentinal_Array.iml" filepath="$PROJECT_DIR$/Array/Multidimentinal_Array/Multidimentinal_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Multilevel/Multilevel.iml" filepath="$PROJECT_DIR$/Inheritance/Multilevel/Multilevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_frameworks/Collection/Queue/Queue.iml" filepath="$PROJECT_DIR$/Collections_frameworks/Collection/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCANNER_CLASS/SCANNER_CLASS.iml" filepath="$PROJECT_DIR$/SCANNER_CLASS/SCANNER_CLASS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INHERITENCE/SINGLE/SINGLE.iml" filepath="$PROJECT_DIR$/INHERITENCE/SINGLE/SINGLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWAPPING/SWAPPING.iml" filepath="$PROJECT_DIR$/SWAPPING/SWAPPING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_class/Static_inner_class/Static_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/Static_inner_class/Static_inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TYPECASTING/TYPECASTING.iml" filepath="$PROJECT_DIR$/TYPECASTING/TYPECASTING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VARIABLE/VARIABLE.iml" filepath="$PROJECT_DIR$/VARIABLE/VARIABLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_handling/Write/Write.iml" filepath="$PROJECT_DIR$/file_handling/Write/Write.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditinal_statements/conditinal_statements.iml" filepath="$PROJECT_DIR$/conditinal_statements/conditinal_statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_handling/delete/delete.iml" filepath="$PROJECT_DIR$/file_handling/delete/delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_handling/file_handling.iml" filepath="$PROJECT_DIR$/file_handling/file_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_class/inner_class.iml" filepath="$PROJECT_DIR$/inner_class/inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java1.iml" filepath="$PROJECT_DIR$/java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/multilevel_inheritence/multilevel_inheritence.iml" filepath="$PROJECT_DIR$/inheritance/multilevel_inheritence/multilevel_inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/predefinedstring/predefinedstring.iml" filepath="$PROJECT_DIR$/string/predefinedstring/predefinedstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_handling/read/read.iml" filepath="$PROJECT_DIR$/file_handling/read/read.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_frameworks/Collection/set/set.iml" filepath="$PROJECT_DIR$/Collections_frameworks/Collection/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/single_inheritence/single_inheritence.iml" filepath="$PROJECT_DIR$/inheritance/single_inheritence/single_inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/userdefined/userdefined.iml" filepath="$PROJECT_DIR$/string/userdefined/userdefined.iml" />
+    </modules>
+  </component>
+</project>
