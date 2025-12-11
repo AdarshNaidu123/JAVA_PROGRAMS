@@ -1,11 +1,11 @@
 public class variable {
      static void mymethod() {
-         int b=10;
+         int b=20;
         System.out.println(b);
     }
 
     public static void main(String[] args) {
-        int a=12;//local
+        int a=32;//local
         System.out.println(a);
         mymethod();
 
